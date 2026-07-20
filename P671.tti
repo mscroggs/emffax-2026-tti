@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,67101
+SC,0001
+OL,2,MHacking APRS to warm my camper van
+OL,4,Mwhilst I’m still in the pub
+OL,6,CGeoff Robinson
+OL,7,CFri 15:50-16:10
+OL,8,CStage C
+OL,10,GThis brief talk will describe a
+OL,11,Gpersonal remote-control protocol that
+OL,12,Gcan be run over APRS and potentially
+OL,13,Gother similar location messaging
+OL,14,Gprotocols. APRS is an amateur VHF/UHF
+OL,15,Gad-hoc, wide area, resilient digital
+OL,16,Gmesh network relaying position
+OL,17,Ginformation. Amateur APRS networks
+OL,18,Goperate using AX25 packet radio at 144
+OL,19,G& 432MHz and can have a similar range
+OL,20,Gper node to UHF LoRa and Meshtastic
+OL,22,D]CEMFFAX: The world at your fingertips\

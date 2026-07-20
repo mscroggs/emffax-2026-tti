@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,64401
+SC,0001
+OL,2,MWhat does a quantum computer actually
+OL,4,Mdo?
+OL,6,CMatt Wallace
+OL,7,CFri 19:40-20:10
+OL,8,CStage A
+OL,10,GInside a trapped-ion quantum computer,
+OL,11,Gwhat really happens when you run a
+OL,12,Gprogram? This talk follows a single
+OL,13,Gcalculation end-to-end. From ions
+OL,14,Gbeing loaded and cooled in a trap,
+OL,15,Gthrough a sequence of laser pulses
+OL,16,Gthat implement quantum gates, to the
+OL,17,Gfinal measurement that produces a
+OL,18,Gresult. Along the way, we’ll unpack
+OL,19,Ghow qubits are physically realised in
+OL,20,Gatomic states, and how carefully
+OL,22,D]CEMFFAX: The world at your fingertips\

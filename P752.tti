@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,75201
+SC,0001
+OL,2,MBuilding a Mostly-Local, Mildly
+OL,4,MJudgemental Home Assistant
+OL,6,CMark J Cox
+OL,7,CSun 17:20-17:50
+OL,8,CStage B
+OL,10,GVoice assistants are getting easier to
+OL,11,Gdeploy, but they’re still generic.
+OL,12,GThis talk follows my attempt to build
+OL,13,Ga mostly-local Home Assistant voice
+OL,14,Gsystem that not only controls the
+OL,15,Ghouse, but has a personality. We’ll
+OL,16,Gexplore the trade-offs between local
+OL,17,Gand cloud services, improving
+OL,18,Grecognition for regional accents,
+OL,19,Gcreating custom Piper voices, and
+OL,20,Gadding character to an assistant that
+OL,22,D]CEMFFAX: The world at your fingertips\

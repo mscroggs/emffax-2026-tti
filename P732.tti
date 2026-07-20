@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,73201
+SC,0001
+OL,2,MDesign decisions behind the Tildagon -
+OL,4,Ma technical walkthrough
+OL,6,CKliment
+OL,7,CSun 13:20-13:50
+OL,8,CStage A
+OL,10,GA few years back we came up with the
+OL,11,Gconcept of a reusable event badge, and
+OL,12,Gbuilt the Tildagon. I'd like to tell
+OL,13,Gyou how it came to be, and walk you
+OL,14,Gthrough the electronic, mechanical,
+OL,15,Gand visual design for 2024 and 2026
+OL,16,Gand the reasoning behind the various
+OL,17,Gdecisions we had to make along the
+OL,18,Gway. We'll go through the schematic,
+OL,19,Glayout, and part selection, and
+OL,20,Ghopefully some of the weirder
+OL,22,D]CEMFFAX: The world at your fingertips\
